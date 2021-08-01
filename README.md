@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohdfaizmaik
+- 👋 Hi, I’m mohdfaiz
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web doveelopement
 - 📫 you can contact me at 9696faiz@gmail.com
